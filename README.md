@@ -1,7 +1,7 @@
 - 🔥 Hi
 - 🌱 I’m currently learning Python
 - 💞️ I’m currently working on a Discord Bot
-- 📫 How to reach me Discord -> 丂x𝐅𝓪м#3944
+- 📫 How to reach me Discord -> ꜱxꜰᴀᴍ#3944
 
 <!---
 sxfam/sxfam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
